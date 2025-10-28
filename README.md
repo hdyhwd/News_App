@@ -14,8 +14,8 @@ Berikut contoh tampilan tiga layar utama: Home, Discover (Filter Kategori), dan 
 
 <img width="333" height="686" alt="Screenshot 2025-10-28 092202" src="https://github.com/user-attachments/assets/39bc7e17-779d-4244-bb2d-d1f6059472fa" />
 <img width="328" height="694" alt="Screenshot 2025-10-28 092220" src="https://github.com/user-attachments/assets/db169ba2-035a-474a-a681-7865c8eeb790" />
-
 <img width="332" height="695" alt="Screenshot 2025-10-28 092233" src="https://github.com/user-attachments/assets/8a646545-bdde-4e81-9376-2cb21ecfb3e6" />
+<img width="369" height="767" alt="Screenshot 2025-10-28 200227" src="https://github.com/user-attachments/assets/f46fcbb2-49eb-4904-9213-f9f6b8e52c06" />
 
 
 
