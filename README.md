@@ -17,7 +17,7 @@ Berikut contoh tampilan tiga layar utama: Home, Discover (Filter Kategori), dan 
 
 <img width="332" height="695" alt="Screenshot 2025-10-28 092233" src="https://github.com/user-attachments/assets/8a646545-bdde-4e81-9376-2cb21ecfb3e6" />
 
-![Tampilan Aplikasi Read News](https://i.ibb.co/L5B40r6/Screenshot-2025-10-22-101721.jpg)
+
 
 ---
 
